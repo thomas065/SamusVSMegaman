@@ -11,7 +11,7 @@ export const playerStats = {
 };
 export const opponentStats = {
   level: 44,
-  name: 'Samus',
+  name: 'Samus Prime',
   maxHealth: 188,
   img: '/assets/samus.png',
 
